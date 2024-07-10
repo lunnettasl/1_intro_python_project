@@ -13,7 +13,52 @@ The main objectives of this project are:
 5. To practice modular programming by splitting the functionality into separate modules.
 
 ## 2. Flowchart
+### Description of the Flowchart
+1. Start: The program starts.
+2. Initialize Transaction Object: An instance of the Transaction class is created.
+3.  Display Menu: The menu with options is displayed to the user.
+4.  User Selects an Option: The user selects an option from the menu.
+For each menu option:
+  1. Add Item:
+    Prompt for item name, quantity, and price.
+    Add the item to the transaction.
+    Go back to the display menu.
+  2. Update Item Name:
+    Prompt for the old item name and new item name.
+    Update the item name in the transaction.
+    Go back to the display menu.
+  3. Update Item Quantity:
+    Prompt for the item name and new quantity.
+    Update the item quantity in the transaction.
+    Go back to the display menu.
+  4. Update Item Price:
+    Prompt for the item name and new price.
+    Update the item price in the transaction.
+    Go back to the display menu.
+  5. Delete Item:
+    Prompt for the item name.
+    Delete the item from the transaction.
+    Show the remaining items.
+    Go back to the display menu.
+  6. Reset Transaction:
+    Clear all items from the transaction.
+    Show a confirmation message.
+    Go back to the display menu.
+  7. Check Order:
+    Check for input errors in the transaction.
+    Show the check order message.
+    Go back to the display menu.
+  8. Print Order:
+    Print the list of items in the transaction.
+    Go back to the display menu.
+  9. Show Total Price:
+    Calculate and print the total price with discounts.
+    Go back to the display menu.
+  10. Exit:
+    Terminate the program.
+5. End: The program ends.
 
+### Flowchart
 
 ## 3. Code Information
 The project is divided into three modules:
