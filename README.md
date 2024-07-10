@@ -64,6 +64,7 @@ For each menu option:
 V. End: The program ends.
 
 ### Flowchart
+![Optional_project_final drawio](https://github.com/lunnettasl/1_intro_python_project/assets/174937297/994de1b7-a155-4cc3-984e-6e06307c8fc2)
 
 ## 3. Code Information
 The project is divided into three modules:
