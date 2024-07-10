@@ -59,9 +59,11 @@ This is the main script that runs the application. It initializes the `Transacti
 
 ## 5. Test Case
 1. Showing all options:
+
 ![1  Menu Awal](https://github.com/lunnettasl/1_intro_python_project/assets/174937297/eb242c59-8455-4aca-931e-5401ebd30fc3)
 
 2. Add item (option 1):
+
 ![2  Add Item](https://github.com/lunnettasl/1_intro_python_project/assets/174937297/977ee232-b781-44c6-ab48-6ec84f5bce67)
 
 3. Delete an item (option 5) and show the remain item list:
@@ -71,6 +73,7 @@ This is the main script that runs the application. It initializes the `Transacti
 ![6  Reset](https://github.com/lunnettasl/1_intro_python_project/assets/174937297/17c6efd4-9652-4267-a6ae-f3564bb82a4c)
 
 5. Check current order (option 7):
+
 ![7  Check order](https://github.com/lunnettasl/1_intro_python_project/assets/174937297/457fa36b-fc53-4a7b-839c-c635019a72d0)
 
 6. Print order (option 8) and show all the order list:
