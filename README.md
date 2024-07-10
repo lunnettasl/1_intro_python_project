@@ -14,10 +14,14 @@ The main objectives of this project are:
 
 ## 2. Flowchart
 ### Description of the Flowchart
-1. Start: The program starts.
-2. Initialize Transaction Object: An instance of the Transaction class is created.
-3.  Display Menu: The menu with options is displayed to the user.
-4.  User Selects an Option: The user selects an option from the menu.
+I. Start: The program starts.
+
+II. Initialize Transaction Object: An instance of the Transaction class is created.
+
+III.  Display Menu: The menu with options is displayed to the user.
+
+IV.  User Selects an Option: The user selects an option from the menu.
+
 For each menu option:
   1. Add Item:
     Prompt for item name, quantity, and price.
@@ -56,7 +60,8 @@ For each menu option:
     Go back to the display menu.
   10. Exit:
     Terminate the program.
-5. End: The program ends.
+
+V. End: The program ends.
 
 ### Flowchart
 
